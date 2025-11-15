@@ -1,12 +1,9 @@
 ---
-id: codex-cli-input-problems-cause-and-solution
-aliases: []
-tags: []
-emoji: 😸
-published: true
-title: ""
-topics: []
-type: tech
+title: "Codex CLIからのデスクトップ通知後にテキスト入力に問題発生"
+emoji: "👾" # アイキャッチとして使われる絵文字（1文字だけ）
+type: "tech" # tech: 技術記事 / idea: アイデア記事
+topics: ["codex", "ChatGPT"] # タグ。["markdown", "rust", "aws"]のように指定する
+published: true # 公開設定（falseにすると下書き）
 ---
 
 ## 問題
