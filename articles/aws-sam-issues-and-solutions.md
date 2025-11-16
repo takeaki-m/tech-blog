@@ -40,7 +40,8 @@ pnpmでの共通パッケージを定義し、その共通パッケージを読�
     "foo": "workspace:*",
     "bar": "workspace:*",
   }
-}```
+}
+```
 
 https://pnpm.io/workspaces
 
