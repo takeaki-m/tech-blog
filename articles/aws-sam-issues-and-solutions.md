@@ -1,9 +1,9 @@
 ---
-title: "templae"
+title: "AWS SAMをTypeScriptにて利用する際のつまづきポイント"
 emoji: "🚧" # アイキャッチとして使われる絵文字（1文字だけ）
 type: "tech" # tech: 技術記事 / idea: アイデア記事
 topics: ["sam","aws-sam","TypeScript" ] # タグ。["markdown", "rust", "aws"]のように指定する
-published: false # 公開設定（falseにすると下書き）
+published: true # 公開設定（falseにすると下書き）
 ---
 
 AWS Lambdaでアプリケーションを構築する際に、構成管理ツールとしてAWS SAMの利用は一般的かと思います。
@@ -158,3 +158,4 @@ UnicodeDecodeError while processing HTTP request: 'utf-8' codec can't decode byt
 内容は以上となります。
 
 少しでも参考になれば幸いです！
+
